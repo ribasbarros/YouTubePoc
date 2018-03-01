@@ -1,0 +1,14 @@
+# ns folders#
+###################
+*.project*
+*.settings*
+*.log
+
+
+# Temp-files folders#
+###################
+*target*
+*/test-output/
+bin/
+target/
+logs/
